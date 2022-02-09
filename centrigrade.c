@@ -7,3 +7,4 @@ int main()
     f = (c*9/5)+32;
     printf("the temp %f centrigrade in farenheit is %f",c,f);
 }
+//hello friends
